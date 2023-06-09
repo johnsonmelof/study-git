@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Hello there!"
-nice
-super
-Testing conflict
+
+echo "Did work?"
+
+echo "Maybe, maybe"
