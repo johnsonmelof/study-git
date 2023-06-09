@@ -9,3 +9,5 @@ echo "Meh"
 echo "Did work?"
 
 echo "Maybe yes, maybe no"
+
+echo "JA!"
