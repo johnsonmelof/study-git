@@ -2,7 +2,7 @@
 
 echo "Hello there!"
 
-echo "Testing branches"
+echo "Testing Issue"
 
 echo "Maybe yes, maybe no"
 
