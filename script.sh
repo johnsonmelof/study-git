@@ -6,4 +6,4 @@ echo "Testing branches"
 
 echo "Did work?"
 
-echo "Maybe, maybe"
+echo "JA!"
